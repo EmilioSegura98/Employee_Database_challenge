@@ -1,0 +1,11 @@
+﻿emp_no,first_name,last_name,title,from_date,to_date
+10001,Georgi,Facello,Senior Engineer,6/26/1986,1/1/9999
+10004,Chirstian,Koblick,Engineer,12/1/1986,12/1/1995
+10004,Chirstian,Koblick,Senior Engineer,12/1/1995,1/1/9999
+10005,Kyoichi,Maliniak,Senior Staff,9/12/1996,1/1/9999
+10005,Kyoichi,Maliniak,Staff,9/12/1989,9/12/1996
+10006,Anneke,Preusig,Senior Engineer,8/5/1990,1/1/9999
+10009,Sumant,Peac,Assistant Engineer,2/18/1985,2/18/1990
+10009,Sumant,Peac,Engineer,2/18/1990,2/18/1995
+10009,Sumant,Peac,Senior Engineer,2/18/1995,1/1/9999
+10011,Mary,Sluis,Staff,1/22/1990,11/9/1996
